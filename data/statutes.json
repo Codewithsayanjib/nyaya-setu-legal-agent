@@ -1,0 +1,235 @@
+{
+  "sections": [
+    {
+      "bns_section": "303(2)",
+      "ipc_equivalent": "379",
+      "offence_title": "Theft",
+      "offence_title_hi": "चोरी",
+      "description": "Dishonestly taking any movable property out of the possession of any person without consent.",
+      "ingredients": [
+        "Movable property involved",
+        "Taken out of possession of another person",
+        "Taken without that person's consent",
+        "Dishonest intention to take the property (Mens Rea)"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "Compoundable by owner with permission of court",
+      "max_punishment": "Imprisonment up to 3 years, or fine, or both"
+    },
+    {
+      "bns_section": "304",
+      "ipc_equivalent": "380",
+      "offence_title": "Theft in dwelling house, place of worship, or transport",
+      "offence_title_hi": "घर, पूजा स्थल या वाहन में चोरी",
+      "description": "Commits theft in any building, tent or vessel used as a human dwelling or for custody of property.",
+      "ingredients": [
+        "All ingredients of theft (dishonest taking of movable property without consent)",
+        "Committed inside a building, tent, vessel, or place used for human dwelling or custody of property"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "No",
+      "max_punishment": "Imprisonment up to 7 years and fine"
+    },
+    {
+      "bns_section": "308",
+      "ipc_equivalent": "384",
+      "offence_title": "Extortion",
+      "offence_title_hi": "जबरन वसूली / रंगदारी",
+      "description": "Intentionally putting any person in fear of any injury and dishonestly inducing them to deliver property.",
+      "ingredients": [
+        "Intentionally putting any person in fear of injury to that person or another",
+        "Dishonestly inducing that person so put in fear to deliver any property or valuable security"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "No",
+      "max_punishment": "Imprisonment up to 3 years, or fine, or both"
+    },
+    {
+      "bns_section": "309",
+      "ipc_equivalent": "392",
+      "offence_title": "Robbery",
+      "offence_title_hi": "लूट / डकैती का लघु रूप (लूट)",
+      "description": "Theft or extortion accomplished by causing or attempting to cause death, hurt, or wrongful restraint, or fear of instant hurt/death.",
+      "ingredients": [
+        "Theft or extortion is committed",
+        "Offender for that end voluntarily causes or attempts to cause death, hurt, or wrongful restraint, OR fear of instant death, instant hurt, or instant wrongful restraint"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "No",
+      "max_punishment": "Rigorous imprisonment up to 10 years (or 14 years if on highway between sunset and sunrise)"
+    },
+    {
+      "bns_section": "310",
+      "ipc_equivalent": "395",
+      "offence_title": "Dacoity",
+      "offence_title_hi": "डकैती",
+      "description": "When five or more persons conjointly commit or attempt to commit a robbery.",
+      "ingredients": [
+        "Commission or attempt to commit robbery",
+        "Conjointly committed by five or more persons (acting together)"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "No",
+      "max_punishment": "Imprisonment for life, or rigorous imprisonment up to 10 years, and fine"
+    },
+    {
+      "bns_section": "318",
+      "ipc_equivalent": "420",
+      "offence_title": "Cheating and dishonestly inducing delivery of property",
+      "offence_title_hi": "धोखाधड़ी / छल और संपत्ति सौंपने के लिए बेईमानी से प्रेरित करना",
+      "description": "Cheats and thereby dishonestly induces the person deceived to deliver any property.",
+      "ingredients": [
+        "Deception of any person by fraudulent or dishonest representation",
+        "Inducing that person to deliver property or alter/destroy valuable security",
+        "Dishonest intention from the inception of the transaction"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "Compoundable by person cheated with court permission",
+      "max_punishment": "Imprisonment up to 7 years and fine"
+    },
+    {
+      "bns_section": "316",
+      "ipc_equivalent": "406",
+      "offence_title": "Criminal Breach of Trust",
+      "offence_title_hi": "आपराधिक विश्वासघात",
+      "description": "Dishonestly misappropriating or converting to own use property entrusted to the offender.",
+      "ingredients": [
+        "Entrustment of property or dominion over property",
+        "Dishonest misappropriation, conversion, or dishonest use/disposal in violation of legal direction/contract"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "Compoundable with court permission",
+      "max_punishment": "Imprisonment up to 5 years, or fine, or both"
+    },
+    {
+      "bns_section": "115(2)",
+      "ipc_equivalent": "323",
+      "offence_title": "Voluntarily causing hurt",
+      "offence_title_hi": "स्वेच्छा से चोट पहुँचाना",
+      "description": "Voluntarily doing an act causing bodily pain, disease, or infirmity to any person.",
+      "ingredients": [
+        "Bodily pain, disease or infirmity caused to a person",
+        "Act was done intentionally or with knowledge that it is likely to cause hurt",
+        "Absence of grave and sudden provocation"
+      ],
+      "cognizable": false,
+      "bailable": true,
+      "compoundable": "Yes, by the person to whom hurt is caused",
+      "max_punishment": "Imprisonment up to 1 year, or fine up to ₹10,000, or both"
+    },
+    {
+      "bns_section": "117(2)",
+      "ipc_equivalent": "325",
+      "offence_title": "Voluntarily causing grievous hurt",
+      "offence_title_hi": "स्वेच्छा से गंभीर चोट पहुँचाना",
+      "description": "Voluntarily causing grievous hurt such as fracture, permanent privation of sight/hearing, or severe bodily pain for 15+ days.",
+      "ingredients": [
+        "Hurt caused falls into categories of grievous hurt (emasculation, permanent eye/ear impairment, bone fracture/dislocation, life-endangering injury)",
+        "Voluntarily caused without grave provocation"
+      ],
+      "cognizable": true,
+      "bailable": true,
+      "compoundable": "Compoundable with court permission",
+      "max_punishment": "Imprisonment up to 7 years and fine"
+    },
+    {
+      "bns_section": "351(2)",
+      "ipc_equivalent": "506",
+      "offence_title": "Criminal Intimidation",
+      "offence_title_hi": "आपराधिक धमकी",
+      "description": "Threatening another with injury to their person, reputation, or property to cause alarm or force them to do an act.",
+      "ingredients": [
+        "Threatening another person with injury to person, reputation, or property (or person of interest)",
+        "Intent to cause alarm to that person, or to compel that person to do any act which they are not legally bound to do"
+      ],
+      "cognizable": false,
+      "bailable": true,
+      "compoundable": "Yes, by the person intimidated",
+      "max_punishment": "Imprisonment up to 2 years, or fine, or both (up to 7 years if threat to cause death/grievous hurt)"
+    },
+    {
+      "bns_section": "329",
+      "ipc_equivalent": "447/448",
+      "offence_title": "Criminal Trespass & House-Trespass",
+      "offence_title_hi": "आपराधिक अतिचार और गृह-अतिचार",
+      "description": "Entering into or upon property in the possession of another with intent to commit an offence or intimidate/insult/annoy.",
+      "ingredients": [
+        "Entry into or upon property in possession of another (or lawfully entering and unlawfully remaining)",
+        "Intent to commit an offence, or intimidate, insult, or annoy the person in possession"
+      ],
+      "cognizable": true,
+      "bailable": true,
+      "compoundable": "Compoundable by person in possession",
+      "max_punishment": "Imprisonment up to 3 months or fine up to ₹5,000 (or up to 1 year for house-trespass)"
+    },
+    {
+      "bns_section": "331(4)",
+      "ipc_equivalent": "457",
+      "offence_title": "Lurking house-trespass or house-breaking by night to commit offence",
+      "offence_title_hi": "रात में अपराध करने के लिए गुप्त गृह-अतिचार या सेंधमारी",
+      "description": "Commits lurking house-trespass or house-breaking after sunset and before sunrise to commit an offence punishable with imprisonment.",
+      "ingredients": [
+        "House-trespass committed taking precautions to conceal it from person entitled to exclude",
+        "Committed between sunset and sunrise (night)",
+        "Committed with intention to commit an offence punishable with imprisonment"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "No",
+      "max_punishment": "Imprisonment up to 5 years (up to 14 years if the offence intended is theft) and fine"
+    },
+    {
+      "bns_section": "74",
+      "ipc_equivalent": "354",
+      "offence_title": "Assault or use of criminal force to woman with intent to outrage her modesty",
+      "offence_title_hi": "महिला की लज्जा भंग करने के इरादे से हमला या आपराधिक बल का प्रयोग",
+      "description": "Assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty.",
+      "ingredients": [
+        "Assault or use of criminal force upon a woman",
+        "Intention to outrage her modesty OR knowledge that modesty is likely to be outraged"
+      ],
+      "cognizable": true,
+      "bailable": false,
+      "compoundable": "No",
+      "max_punishment": "Imprisonment not less than 1 year which may extend to 5 years, and fine"
+    },
+    {
+      "bns_section": "79",
+      "ipc_equivalent": "509",
+      "offence_title": "Word, gesture or act intended to insult modesty of a woman",
+      "offence_title_hi": "महिला की लज्जा का अनादर करने के इरादे से शब्द, इशारा या कार्य",
+      "description": "Intending to insult the modesty of any woman, utters any word, makes any sound/gesture, or intrudes upon privacy.",
+      "ingredients": [
+        "Intention to insult the modesty of a woman",
+        "Uttering words, making sounds/gestures, exhibiting objects, or intruding upon her privacy"
+      ],
+      "cognizable": true,
+      "bailable": true,
+      "compoundable": "Compoundable by the woman with court permission",
+      "max_punishment": "Simple imprisonment up to 3 years and fine"
+    },
+    {
+      "bns_section": "3(5)",
+      "ipc_equivalent": "34",
+      "offence_title": "Joint Liability / Common Intention",
+      "offence_title_hi": "सामान्य आशय (समान इरादा)",
+      "description": "When a criminal act is done by several persons in furtherance of the common intention of all, each person is liable as if done by him alone.",
+      "ingredients": [
+        "Criminal act done by two or more persons",
+        "Done in furtherance of a shared/pre-arranged common intention of all participants",
+        "Active physical or coordinating participation in the crime"
+      ],
+      "cognizable": "Depends on primary offence",
+      "bailable": "Depends on primary offence",
+      "compoundable": "Depends on primary offence",
+      "max_punishment": "Same liability as principal offender"
+    }
+  ]
+}
