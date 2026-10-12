@@ -1,6 +1,8 @@
 # Nyaya-Setu (न्याय-सेतु) ⚖️
 ### Explainable Statute Prediction & FIR Legal Triage Agent powered by Sarvam AI
 
+**🚀 Live app:** https://codewithsayanjib-nyaya-setu-legal-agent-app-ldslwx.streamlit.app/
+
 Nyaya-Setu is an agentic legal triage and explainable statute prediction system designed for Indian criminal jurisprudence. It helps common citizens, victims, and legal aid clinics convert oral or written incident accounts in Indian languages into structured, legally validated **Bharatiya Nyaya Sanhita (BNS) 2023** charges with dual **Indian Penal Code (IPC) 1860** concordance.
 
 ---
